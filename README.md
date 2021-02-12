@@ -1,4 +1,26 @@
 [![Build Status](https://travis-ci.org/graspit-simulator/graspit.svg?branch=master)](https://travis-ci.org/graspit-simulator/graspit)
+# install
+```bash
+sudo apt-get install -y libqt4-dev
+sudo apt-get install -y libqt4-opengl-dev
+sudo apt-get install -y libqt4-sql-psql
+sudo apt-get install -y libcoin80-dev
+sudo apt-get install -y libsoqt4-dev
+sudo apt-get install -y libblas-dev
+sudo apt-get install -y liblapack-dev
+sudo apt-get install -y libqhull-dev
+sudo apt-get install -y libeigen3-dev
+
+
+
+```
+
+
+
+
+
+
+
 
 <h1>GraspIt!</h1>
 
